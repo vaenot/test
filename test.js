@@ -1,4 +1,2 @@
-const test = "test";
-alert("hello!")
-
-blablabla
+const a = "hello world";
+println(a)
