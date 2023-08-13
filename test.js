@@ -1,1 +1,10 @@
-const test = "test";
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Главная страница</title>
+  </head>
+  <body>
+    Привіт лисенятко
+  </body>
+</html>
